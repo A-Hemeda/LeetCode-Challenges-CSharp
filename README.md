@@ -1,7 +1,6 @@
-![image](https://github.com/user-attachments/assets/936f30c7-5375-4e9e-82a6-42e44f7cc2b6)
 ![image](https://github.com/user-attachments/assets/827c67de-964a-4cf8-9848-906c7f84b0ab)
+![image](https://github.com/user-attachments/assets/936f30c7-5375-4e9e-82a6-42e44f7cc2b6)
 
-# LeetCode
 The C# solutions for LeetCode problems.
 
 ## Problems
