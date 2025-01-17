@@ -1,5 +1,5 @@
-[![AppVeyor Build Status](https://img.shields.io/appveyor/build/bigegg/leetcode-cs?label=Windows%20Build%20Status&logo=AppVeyor&style=flat-square)](https://ci.appveyor.com/project/BigEgg/leetcode-cs)
-[![Solved Problems](https://img.shields.io/badge/Solved%20Problems-825-blue.svg?style=flat-square)](https://github.com/BigEggStudy/LeetCode-CS)
+![image](https://github.com/user-attachments/assets/936f30c7-5375-4e9e-82a6-42e44f7cc2b6)
+![image](https://github.com/user-attachments/assets/827c67de-964a-4cf8-9848-906c7f84b0ab)
 
 # LeetCode
 The C# solutions for LeetCode problems.
