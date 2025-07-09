@@ -1,7 +1,4 @@
-<img src="https://media2.dev.to/dynamic/image/width=1280,height=720,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsz8tp716mpfsfk7tjoku.png" height="200"/>
-<img src="https://miro.medium.com/v2/resize:fit:670/0*muNHqR0MMu2CjRbv.png" height="200"/>
-
-The C# solutions for LeetCode problems.
+# The C# solutions for LeetCode problems.
 
 ## Problems
 
