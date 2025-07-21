@@ -1,4 +1,4 @@
-# C# solutions for LeetCode problems.
+# Solutions for LeetCode problems using C#
 
 ## Problems
 
