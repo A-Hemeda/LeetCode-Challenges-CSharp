@@ -1,6 +1,6 @@
 # Solutions for LeetCode problems using C#
 
-## Problems
+## Problems:
 
 ### Table of Contents
 * [001-050](#Problems-001-050)
