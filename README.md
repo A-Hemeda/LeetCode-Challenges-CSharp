@@ -1,4 +1,4 @@
-# Solutions for LeetCode problems using C#
+# C# Problem Solving Solutions - LeetCode
 
 ## Problems:
 
